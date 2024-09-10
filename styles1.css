@@ -71,7 +71,10 @@ margin-top: 1rem;
     width: 300px;
     text-align: center;
 }
-
+#awards ul {
+    list-style: none;
+    padding: 0;
+}
 /* Footer styles */
 footer {
 text-align: center;
