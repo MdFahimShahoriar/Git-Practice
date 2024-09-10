@@ -58,6 +58,19 @@ padding: 0;
 form {
 margin-top: 1rem;
 }
+.testimonial-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.testimonial {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin: 1rem;
+    width: 300px;
+    text-align: center;
+}
 
 /* Footer styles */
 footer {
